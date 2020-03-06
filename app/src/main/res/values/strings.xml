@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="title">나라 정보</string>
+
+    <string name="place1">대한민국</string>
+    <string name="info1">수도 : 서울</string>
+
+    <string name="place2">프랑스</string>
+    <string name="info2">수도 : 파리</string>
+
+    <string name="place3">독일</string>
+    <string name="info3">수도 : 베를린</string>
+
+    <string name="place4">미국</string>
+    <string name="info4">수도 : 워싱턴 D.C.</string>
+
+    <string name="place5">영국</string>
+    <string name="info5">수도 : 런던</string>
+
+    <string name="place6">인도</string>
+    <string name="info6">수도 : 소주</string>
+
+    <string name="place7">태국</string>
+    <string name="info7">수도 : 방콕</string>
+
+    <string name="place8">인도네시아</string>
+    <string name="info8">수도 : 자카르타</string>
+
+    <string name="place9">중국</string>
+    <string name="info9">수도 : 베이징</string>
+
+    <string name="place10">일본</string>
+    <string name="info10">수도 : 도쿄</string>
+
+</resources>
